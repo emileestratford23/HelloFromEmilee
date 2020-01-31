@@ -3,6 +3,8 @@ package Stratford;
 public class Main {
     public static void main(String [] args)
     {
-        System.out.println("Hello, my name is Emilee!");
+        String string = "Hello, my name is Emilee!";
+        System.out.println(string);
+        System.out.println("string == TRUE");
     }
 }
